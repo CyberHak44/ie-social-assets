@@ -7,19 +7,31 @@
    "id": "JB-001",
    "date": "2026-11-12",
    "approved": true,
-   "status": "posted"
+   "status": "posted",
+   "linkedin": {
+    "status": "catch-up",
+    "caption": "Someone just accessed your network and adjusted the freezer temperature. What else is on your network?\nThis month, attackers took over supermarket refrigeration controllers across Europe, set freezers to 50°C overnight and switched off the alarms. The stock went in the bin.\nOT, operational technology, is the computers that run physical things: fridges, chillers, lifts, CCTV, doors.\nMyth: hackers only go after banks.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Eduardo Soares / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #OTSecurity"
+   }
   },
   {
    "id": "JB-002",
    "date": "2026-11-12",
    "approved": true,
-   "status": "posted"
+   "status": "posted",
+   "linkedin": {
+    "status": "catch-up",
+    "caption": "The system nobody wants to touch.\nA PC in the comms room running software the vendor stopped patching years ago. It runs the building. Nobody touches it, because if it stops, everything stops.\nEnd of life means no more security patches, ever. Every new hole stays open.\nFix: take it off the internet, lock down who can reach it, plan its replacement.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nIllustration: Intelligent Environments\n#UAECybersecurity #CyberResilience #UAESME #GRC #OTSecurity"
+   }
   },
   {
    "id": "JB-004",
    "date": "2026-11-12",
    "approved": true,
-   "status": "posted"
+   "status": "posted",
+   "linkedin": {
+    "status": "catch-up",
+    "caption": "\"We're mechanics, not IT. What data do we even have?\"\nWho has access to your system? Look closely at this workshop.\nAccess control: who can see, use or change what, and how you know.\nMyth: we are too small to have data worth stealing.\nComment below the vulnerabilities you can spot. Spot them all and your systems check is free.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nIllustration: Intelligent Environments\n#UAECybersecurity #CyberResilience #UAESME #GRC #PDPL"
+   }
   },
   {
    "id": "JB-003",
@@ -28,7 +40,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-003.jpg",
-   "caption": "\"Of course we are air-gapped.\"\nSix ways the air gap is already broken: a vendor laptop on Wi-Fi, a USB stick from the office, a hidden cellular modem, a PC on both networks, an undocumented cable, a wireless sensor gateway.\nAny one of them ends the air gap. How many are in your building? Security you can prove.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nIllustration: Intelligent Environments\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "\"Of course we are air-gapped.\"\nSix ways the air gap is already broken: a vendor laptop on Wi-Fi, a USB stick from the office, a hidden cellular modem, a PC on both networks, an undocumented cable, a wireless sensor gateway.\nAny one of them ends the air gap. How many are in your building? Security you can prove.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nIllustration: Intelligent Environments\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "\"Of course we are air-gapped.\"\nSix ways the air gap is already broken: a vendor laptop on Wi-Fi, a USB stick from the office, a hidden cellular modem, a PC on both networks, an undocumented cable, a wireless sensor gateway.\nAny one of them ends the air gap. How many are in your building? Security you can prove.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nIllustration: Intelligent Environments\n#UAECybersecurity #CyberResilience #UAESME #GRC #IEC62443"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-005",
@@ -37,7 +54,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-005.jpg",
-   "caption": "3,004 to 708 in under a month.\nAfter the warnings went out, the number of exposed refrigeration controllers of one product left online fell by about three quarters.\nYour attack surface is every door left open. Find them and close them.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Taylor Vick / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "3,004 to 708 in under a month.\nAfter the warnings went out, the number of exposed refrigeration controllers of one product left online fell by about three quarters.\nYour attack surface is every door left open. Find them and close them.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Taylor Vick / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "3,004 to 708 in under a month.\nAfter the warnings went out, the number of exposed refrigeration controllers of one product left online fell by about three quarters.\nYour attack surface is every door left open. Find them and close them.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Taylor Vick / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #CyberSecurity"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-006",
@@ -46,7 +68,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-006.jpg",
-   "caption": "Your team is the last line of defence.\nWhen a fake invoice lands, the final decision is made by a person, not a firewall.\nMake it easy for them: a second check at login, never change payment details by email alone, one person to ask.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Matheus Protzen / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "Your team is the last line of defence.\nWhen a fake invoice lands, the final decision is made by a person, not a firewall.\nMake it easy for them: a second check at login, never change payment details by email alone, one person to ask.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Matheus Protzen / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "Your team is the last line of defence.\nWhen a fake invoice lands, the final decision is made by a person, not a firewall.\nMake it easy for them: a second check at login, never change payment details by email alone, one person to ask.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Matheus Protzen / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #SecurityAwareness"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-007",
@@ -55,7 +82,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-007.jpg",
-   "caption": "A castle is only as strong as those who leave the 3 common doors open.\nLogins | Updates | Phishing.\nThis week was door two, updates. Next week, door one: logins.\nWhich door is open in yours? Comment CHECK (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Sebastien Devocelle / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "A castle is only as strong as those who leave the 3 common doors open.\nLogins | Updates | Phishing.\nThis week was door two, updates. Next week, door one: logins.\nWhich door is open in yours? Comment CHECK (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Sebastien Devocelle / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "A castle is only as strong as those who leave the 3 common doors open.\nLogins | Updates | Phishing.\nThis week was door two, updates. Next week, door one: logins.\nWhich door is open in yours? Comment CHECK. Comment CHECK below or send us a message.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Sebastien Devocelle / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #CyberSecurity"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-008",
@@ -64,7 +96,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-008.jpg",
-   "caption": "The password printed in the manual.\nCameras, routers and controllers ship with a factory login. If nobody changed it, anyone who finds the device online can log in as you.\nTen-minute fix: check your CCTV recorder, router and building control panel today.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Turquo Cabbit / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "The password printed in the manual.\nCameras, routers and controllers ship with a factory login. If nobody changed it, anyone who finds the device online can log in as you.\nTen-minute fix: check your CCTV recorder, router and building control panel today.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Turquo Cabbit / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "The password printed in the manual.\nCameras, routers and controllers ship with a factory login. If nobody changed it, anyone who finds the device online can log in as you.\nTen-minute fix: check your CCTV recorder, router and building control panel today.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Turquo Cabbit / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #OTSecurity"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-009",
@@ -73,7 +110,12 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-009.jpg",
-   "caption": "One stolen password should not be enough.\nMulti-factor authentication adds a second check at login: an app on your phone or a security key. A phished password alone no longer gets them in.\nMyth: a strong password is enough.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "One stolen password should not be enough.\nMulti-factor authentication adds a second check at login: an app on your phone or a security key. A phished password alone no longer gets them in.\nMyth: a strong password is enough.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "One stolen password should not be enough.\nMulti-factor authentication adds a second check at login: an app on your phone or a security key. A phished password alone no longer gets them in.\nMyth: a strong password is enough.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #ISO27001"
+   },
+   "instagram_status": "queued"
   },
   {
    "id": "JB-010",
@@ -82,7 +124,14 @@
    "approved_by": "Hakim Bilal 2026-11-12",
    "status": "queued",
    "image_url": "https://raw.githubusercontent.com/CyberHak44/ie-social-assets/main/jargon-buster/JB-010.jpg",
-   "caption": "You typed your code. So did they.\nA fake login page passes your password and one-time code to the real site, then keeps your logged-in session.\nPhishing-resistant MFA, like passkeys or security keys, stops it. So does checking the address before you log in.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE"
+   "caption": "You typed your code. So did they.\nA fake login page passes your password and one-time code to the real site, then keeps your logged-in session.\nPhishing-resistant MFA, like passkeys or security keys, stops it. So does checking the address before you log in.\nComment CHECK for a free 15-minute security check (link in bio).\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberSecurityUAE #GRC #ISO27001 #IEC62443 #OTSecurity #UAEIA #CBUAE #PDPL #CyberResilience #الأمن_السيبراني #UAESME #SMEUAE #DubaiSME #AbuDhabiBusiness #MeydanFreeZone #FreeZoneUAE",
+   "linkedin": {
+    "status": "queued",
+    "caption": "You typed your code. So did they.\nA fake login page passes your password and one-time code to the real site, then keeps your logged-in session.\nPhishing-resistant MFA, like passkeys or security keys, stops it. So does checking the address before you log in.\nComment CHECK below or message us for a free 15-minute security check.\nCyber security | third-party risk management | Securing UAE businesses, one door at a time\nPhoto: Towfiqu barbhuiya / Unsplash\n#UAECybersecurity #CyberResilience #UAESME #GRC #CyberSecurity"
+   },
+   "instagram_status": "queued"
   }
- ]
+ ],
+ "linkedin_note": "LinkedIn posts via Windsor linkedin_organic once connected. catch-up items (JB-001, JB-002, JB-004) post on first connection, one per day before the daily item.",
+ "tiktok_note": "TikTok is posted manually by Hakim; captions in IE-MKT-007_TikTok_captions file."
 }
